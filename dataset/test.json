@@ -1,0 +1,27 @@
+[
+  {
+    "pays": "France",
+    "code": "FR",
+    "villes": ["Paris", "Lyon", "Marseille", "Toulouse", "Nice"]
+  },
+  {
+    "pays": "Canada",
+    "code": "CA",
+    "villes": ["Toronto", "Vancouver", "Montréal", "Calgary", "Ottawa"]
+  },
+  {
+    "pays": "Japon",
+    "code": "JP",
+    "villes": ["Tokyo", "Osaka", "Kyoto", "Nagoya", "Sapporo"]
+  },
+  {
+    "pays": "Brésil",
+    "code": "BR",
+    "villes": ["São Paulo", "Rio de Janeiro", "Brasília", "Salvador", "Fortaleza"]
+  },
+  {
+    "pays": "Allemagne",
+    "code": "DE",
+    "villes": ["Berlin", "Munich", "Hambourg", "Francfort", "Cologne"]
+  }
+]
