@@ -196,4 +196,6 @@ Implement row-level security roles
 Configure row-level security group membership
 
 Apply sensitivity labels
+
+
 The link of the resource: https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/pl-300 
